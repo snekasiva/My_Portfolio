@@ -11,8 +11,8 @@ function Project() {
     let projectList = [
         {
             image: Management,
-            title: "Video Chat",
-            description: "Video Chat application using MERN and socket",
+            title: "Management app",
+            description: "It helps management to manage Student and Teacher details.",
             frontEnd: "https://github.com/snekasiva/CRUD-operation",
             webLink: "https://vercel.com/snekasiva/crud-operation",
            
@@ -20,7 +20,7 @@ function Project() {
         {
             image: Todo,
             title: "To-Do App",
-            description: "Just Anothoer Interactive,Nice beautiful and small to-do application (MERN),Does Everything",
+            description: "It is an application specially built to keep track of errands or tasks that need to be done",
             frontEnd: "https://github.com/snekasiva/To-Do-Application",
             webLink: "https://vercel.com/snekasiva/to-do-application",
             
@@ -28,8 +28,8 @@ function Project() {
         },
         {
             image: Ecommerce,
-            title: "Dental Clinic Mangement (MERN)",
-            description: "Clini Management Application to store patients Data everything at one place.",
+            title: "Ecommerce application",
+            description: "E-Commerce is the buying and selling of goods and services over the internet.",
             frontEnd: "https://github.com/snekasiva/Ecommerce",
             webLink: "https://vercel.com/snekasiva/ecommerce",
             
